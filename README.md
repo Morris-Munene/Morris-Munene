@@ -25,6 +25,13 @@
 
 ---
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,git,linux,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,php,mysql" />
+</div>
+
 
 
 - 🔭 I’m currently working on **Church Website**
@@ -52,34 +59,3 @@
 </div>
 
 ---
-
-## :hammer_and_wrench: Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-9C2410?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0D4F7A?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-B8A000?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1B5E20?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-00566F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-BF360C?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D4F7A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D4F7A?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-B71C1C?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-
-
