@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&random=false&width=600&lines=Backend+Systems+Architect;Server-Side+Logic+Specialist;Cloud+Infrastructure+%26+Linux;Optimizing+Databases+%26+APIs;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Morris--Munene-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Morris-Munene)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/morris-munene-6370a5298/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morris-munene-6370a5298/)
 [![Email](https://img.shields.io/badge/Email-B71C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmunene457@gmail.com)
 
 </div>
