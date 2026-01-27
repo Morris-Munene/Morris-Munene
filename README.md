@@ -35,10 +35,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/morris software engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="morris software engineer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/morris_software engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morris_software engineer" height="30" width="40" /></a>
-<a href="https://fb.com/morris saxophonist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morris saxophonist" height="30" width="40" /></a>
-<a href="https://instagram.com/morris saxophonist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="morris saxophonist" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/morris-munene-6370a5298/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Morris Munene LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/morris.saxophonist/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Morris Saxophonist Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/morris_saxophonist/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Morris Saxophonist Instagram" height="30" width="40" />
+  </a>
 </p>
 ## :chart: Contribution Graph
 
